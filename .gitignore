@@ -1,0 +1,20 @@
+# 대용량/원본 데이터 (저장소 제외)
+*.mp4
+*.avi
+*.mov
+*.zip
+models/
+*.pt
+*.onnx
+labeling/
+image/
+image_clean/
+image_crawler/
+image_discarded/
+여러가지사진/
+학습결과사진/
+.venv*/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
